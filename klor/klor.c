@@ -232,6 +232,3 @@ void suspend_wakeup_init_kb(void) {
     suspend_wakeup_init_user();
 }
 #endif //RGB_MATRIX_ENABLE
-
-
-
